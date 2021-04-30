@@ -2,4 +2,4 @@
 *Finally, a place to take notes.*
 
 ---
-**NYCNotes*
+**NYCNotes**
